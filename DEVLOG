@@ -1,0 +1,40 @@
+Day 0
+-------------------------------------------------------------------------------
+
++ Name: Quantavia
+
++ Programming Language: Python
+    - Programming Assistance: Read about Python Sockets, Threads
+
++ General Ideas
+    1) Multiplayer from the beginning
+    2) Group combat
+    3) Chat: private, global, region, group
+    4) Raids
+    5) Dungeons
+    6) Random wilderness encounters
+    7) Trading goods between locations (economy)
+    8) PK/PvP regions -- arena
+
++ We want to do all of the above :-)
++ Timeline: Spring+Summer+Fall --> feature complete by Dcember 25 2012
++ Quantavia Plot
+    - The world was peaceful, until the void opened
+    - Demons entered from another realm
+    - The human race and their allies, the Elves of Eldenberry and Dwarves
+      of Galimdor have united against the dark void
+    - Main human kingdom: Retreich
+        + German-themed land
+
+Work Items:
+-----------
+
+    1) Sieggi: Update Days One --> 3
+    2) Wolf: Focus on key technologies/core architecture
+    3) Oliver: Provide moral support
+
++ Backup/Disaster Recovery:
+
+    1) GitHub cloud dev storage
+    2) Wolf's Dropbox
+    3) Sieggi's Dropbox
