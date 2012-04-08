@@ -35,7 +35,7 @@ if __name__ == '__main__':
     crit = random.randint(2,12) 
     claw = random.randint(2,8)
     smash = random.randint(4,12)
-    print 'Welcome to Gladiator.'
+    print 'Welcome to Quantavia.'
     print 'You have three attacks: strike, fireball (magic), and a crossbow.'
     print 'You type m for fireball, s for strike, and r for your ranged ' +\
           'attack.'
