@@ -26,6 +26,12 @@ Day 0
     - Main human kingdom: Retreich
         + German-themed land
 
++ Backup/Disaster Recovery:
+
+    1) GitHub cloud dev storage
+    2) Wolf's Dropbox
+    3) Sieggi's Dropbox
+
 Work Items:
 -----------
 
@@ -33,8 +39,7 @@ Work Items:
     2) Wolf: Focus on key technologies/core architecture
     3) Oliver: Provide moral support
 
-+ Backup/Disaster Recovery:
+Day 1
+-------------------------------------------------------------------------------
 
-    1) GitHub cloud dev storage
-    2) Wolf's Dropbox
-    3) Sieggi's Dropbox
++ Translated Gladiator source code from C++ to Python
