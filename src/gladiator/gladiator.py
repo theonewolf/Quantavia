@@ -37,8 +37,8 @@ if __name__ == '__main__':
     smash = random.randint(4,12)
     print 'Welcome to Gladiator.'
     print 'You have three attacks: strike, fireball (magic), and a crossbow.'
-    print 'You type m for fireball, s for strike, and r for your ranged \
-          attack.'
+    print 'You type m for fireball, s for strike, and r for your ranged ' +\
+          'attack.'
     print 'Basic Training: attack the target dummy.'
 
     while True:
@@ -66,8 +66,8 @@ if __name__ == '__main__':
         
         if dummyHealth <= 0:
             print 'Excellent you now know how combat works.'
-            print 'You have passed basic training, now prepare for the next \
-                   round.'
+            print 'You have passed basic training, now prepare for the next' +\
+                  'round.'
             break
 
         if playerHealth <= 0:
@@ -105,8 +105,8 @@ if __name__ == '__main__':
             print 'Player hp: %d' % (playerHealth)
 
         if werewolfHealth <= 0:
-            print 'The werewolf roars in pain before falling to the ground \
-                   dead.'
+            print 'The werewolf roars in pain before falling to the ground ' +\
+                  'dead.'
             print 'Congratulations, only one last challenge awaits you.'
             break
 
